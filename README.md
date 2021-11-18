@@ -6,7 +6,3 @@ esses resultados são definidos por uma "seed" (semente) que é definida como Xn
 <br>
 ## a formula que define os numeros pseudoaleatórios é:
 <img src="img/formula.png">
-<br>
-
-# video explicativo:
-esta formula foi explicada e simplificada em um vídeo que postei no youtube, caso queira assistir <a href="https://youtu.be/x46BwfXxzC4">clique aqui</a>
