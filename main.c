@@ -18,8 +18,7 @@ int main(void)
 
     for(int i = 0u; i <= 10; i++)
     {
-        if(i != 10) printf("X%d  -> %d\n", i, *ptr++);
-        else printf("X%d -> %d\n", i, *ptr++);
+        i != 10 ? printf("X%d  -> %d\n", i, *ptr++) : printf("X%d -> %d\n", i, *ptr++);
     }
     return 0;
 }
