@@ -7,7 +7,7 @@ static uint *gerar_numeros (uint X, uint P1, uint P2, uint M)
     for(int i = 0u; i <= 10; i++)
     {
         array[i] = (P1 * X + P2) % M; // Xn = P1 . Xn + P2 (mod M)
-        X = array[i];                 // mudar o valor de Xn para o resultado da equação
+        X = array[i];                 // mudar o valor de X para o resultado da equação
     }
     return array;
 }
